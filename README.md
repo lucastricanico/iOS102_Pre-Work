@@ -6,7 +6,7 @@ This app allows the user to introduce themselves and answer a set of questions u
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/1RONMeV.gif(https://i.imgur.com/1RONMeV.mp4)" width=200><br>
+[![Watch the demo](https://i.imgur.com/1RONMeV.gif)](https://i.imgur.com/1RONMeV.mp4)
 
 ### Required Features
 
